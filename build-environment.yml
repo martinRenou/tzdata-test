@@ -8,3 +8,4 @@ dependencies:
   - pip:
     - jupyterlite===0.1.0b17
     - jupyterlite-xeus-python==0.6.1
+    - git+https://github.com/martinRenou/empack.git@python_tzdata_filtering
